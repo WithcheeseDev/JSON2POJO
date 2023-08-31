@@ -1,0 +1,17 @@
+{
+  "name": "json-to-pojo",
+  "version": "1.0.0",
+  "description": "Automatically transform JSON to POJO",
+  "main": "bin/index.js",
+  "bin": {
+    "json2pojo": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "console.log('JSON to POJO')"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
